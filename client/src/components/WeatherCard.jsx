@@ -7,7 +7,7 @@ function WeatherCard({ data }) {
       <img src={data.icon} alt="Weather icon" className="weather-icon" />
       <div className="weather-details">
         <div className="weather-item">🌥️ Condition: {data.condition}</div>
-        <div className="weather-item">🌡️ Temperature: {data.temperature}°C</div>
+        <div className="weather-item">🌡️ Temperature: {data.temperature}K</div>
         <div className="weather-item">💧 Humidity: {data.humidity}%</div>
         <div className="weather-item">💨 WindSpeed: {data.windspeed} m/s</div>
       </div>
