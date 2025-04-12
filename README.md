@@ -23,10 +23,6 @@ A responsive web application that allows users to get real-time weather data by 
 
 ---
 
-## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/a7d5fe51-2ef0-4c61-b3b0-6c3104947778)
-
-![image](https://github.com/user-attachments/assets/25317142-a1d7-49b5-8a5e-2823676de688)
 
 
 
@@ -44,7 +40,7 @@ npm install
 
 Create a .env file in the server/ directory and add your OpenWeatherMap API key:
 
-weather_api=2049ae390021f99a72ee91233cf66fcb
+weather_api=6345874f7aa8ca0a81a745cf33132fa7;
 
 Start the backend server:
 
