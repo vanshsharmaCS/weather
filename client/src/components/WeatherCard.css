@@ -1,0 +1,29 @@
+.weather-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .weather-icon {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+  }
+  
+  .weather-details {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap; /* Responsive for smaller screens */
+  }
+  
+  .weather-item {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #a6dbe6;
+    padding: 10px 15px;
+    border-radius: 10px;
+  }
+  

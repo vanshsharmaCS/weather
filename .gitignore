@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# dotenv config
+.env
+
+# Build output
+build/
+dist/
+
+# System files
+.DS_Store
